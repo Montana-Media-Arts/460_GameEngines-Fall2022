@@ -14,7 +14,7 @@ module: 1
 </div>
 
 <div id="Overview" class="tabcontent" style="display:block">
-<p>In this session we are going to start on our online journey talking about Unity.  It's a powerful Game Engine that allows us to create any game we want. However, we are going to stick to the basics and use built-in tools so we can focus on design and avoid some of the complexity.</p>
+<p>In this session we are going to start on our online journey talking about Unity and Stenycl.  Unity is a Game Engine that allows us to create any game we want. However, we are going to stick to the basics first, explore Stencyl and use built-in tools so we can focus on design and avoid some of the complexity as of now.</p>
 </div>
 
 <div id="Objectives" class="tabcontent">
