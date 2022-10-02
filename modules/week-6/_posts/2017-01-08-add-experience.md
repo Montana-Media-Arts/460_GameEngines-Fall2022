@@ -1,6 +1,6 @@
 ---
 title: Add Player Experience
-module: 5
+module: 6
 jotted: true
 ---
 

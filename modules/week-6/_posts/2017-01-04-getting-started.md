@@ -1,6 +1,6 @@
 ---
 title: Getting Started
-module: 4
+module: 6
 jotted: true
 ---
 
