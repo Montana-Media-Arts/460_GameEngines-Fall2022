@@ -22,5 +22,4 @@ Michael Cassens maintains this course. Please contact Michael for problems that 
 
 For those of you in Missoula, you are welcome to come by for help during my office hours. This is another way for getting in touch with me and getting my help.
 
-- Mondays/Wednesday: 11:00 am - 12:00 pm
-- Tuesdays/Thursday: 10:00 am - 11:00 am
+- Mondays/Wednesday: 1:00 pm - 2:00 pm
