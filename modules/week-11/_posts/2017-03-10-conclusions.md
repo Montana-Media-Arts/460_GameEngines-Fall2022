@@ -6,4 +6,4 @@ jotted: false
 
 # Weekly Conclusions
 
-This week we worked on Minecraft for ATG/Cognizant
+This week we continued to work on Unreal Engine.

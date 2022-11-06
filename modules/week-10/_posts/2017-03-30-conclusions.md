@@ -6,4 +6,4 @@ jotted: false
 
 # Weekly Conclusions
 
-This week was all about Minecraft and Salesforce again. These concepts can hopefully translate into other learning modules or opportunities in the future. How does one learn most effectively?  How do we make it "fun"?  That is the question.
+This week was just an introduction to Unreal. We will add some interaction next week.
